@@ -1,8 +1,8 @@
 # 9497-Images-OCR-Data-of-10-Types-of-Forms
-https://www.datatang.ai/datasets/1056
 
 ## Description
 9,497 Images - OCR Data of 10 Types of Forms. Rectangular bounding boxes were adopted to annotate forms. The data can be used for tasks such as forms detection.
+For more details, please refer to the link: https://bit.ly/3CjbFDH
 
 ## Date size
 9,497 images, 10 types of forms
@@ -21,3 +21,6 @@ rectangular bounding boxes of forms
 
 ## Accuracy
 The error bound of each vertex of rectangular bounding box is within 5 pixels, which is a qualified annotation, the accuracy of rectangular bounding boxes is not less than 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
