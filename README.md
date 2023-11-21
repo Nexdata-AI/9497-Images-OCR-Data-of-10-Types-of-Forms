@@ -25,4 +25,4 @@ rectangular bounding boxes of forms
 The error bound of each vertex of rectangular bounding box is within 5 pixels, which is a qualified annotation, the accuracy of rectangular bounding boxes is not less than 95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
