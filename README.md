@@ -3,7 +3,7 @@
 ## Description
 9,497 Images - OCR Data of 10 Types of Forms. Rectangular bounding boxes were adopted to annotate forms. The data can be used for tasks such as forms detection.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1056?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1056?source=Github
 
 
 ## Date size
